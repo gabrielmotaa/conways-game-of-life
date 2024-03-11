@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+![Screenshot](./screenshot.png)
+
 Implementação em C do Jogo da Vida (Conway's Game of Life).
 
 Código elaborado e testado para rodar em sistemas Linux.
